@@ -1,7 +1,10 @@
 namespace finalproject
     // Madeline Baxter -- final project :)
     // 7/17: Increment 1 estimation: 2 hours
-    // 7/17: Increment 1 - total time worked: 2 hours
+    // Increment 1 - total time worked: 2 hours
+    // ------------------------------------------
+    // 7/24: Increment 2 estimation: 2 hours
+    // Increment 2 - total time worked: 1.5 hours
 {
     public partial class Form1 : Form
     {
